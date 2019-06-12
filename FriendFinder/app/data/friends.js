@@ -1,36 +1,36 @@
 var friends = [{
-    "name": "Erisdar The Mysterious One",
-    "photo": "https://forum.unity3d.com/proxy.php?image=http%3A%2F%2Fwww.infinitypbr.com%2Fdragon%2Fhd6.jpg&hash=572c8a1450b0670344e0da08cae18d18",
+    "name": "Jake",
+    "photo": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3b/Jakesalad.png/revision/latest?cb=20190608042131",
     "scores": [5, 1, 4, 4, 5, 1, 2, 5, 4, 4]
 },
 {
-    "name": "Mistical Taytay",
-    "photo": "http://rizalprovince.ph/tourism_pictures/Avilon%20MZP%20-%20Montalban%20(2).jpg",
+    "name": "Finn",
+    "photo": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png/revision/latest?cb=20190608041243",
     "scores": [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
 },
 {
-    "name": "Skylar Rose",
-    "photo": "http://i2.wp.com/northstarz.ca/wp-content/uploads/2013/12/Rose.jpg",
+    "name": "Fiona",
+    "photo": "https://vignette.wikia.nocookie.net/atfanfic/images/0/0c/FionnaAT.png/revision/latest?cb=20121105172420",
     "scores": [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
 },
 {
-    "name": "Colonel Paul",
-    "photo": "http://www.153aw.ang.af.mil/shared/media/bio/Colonel%20Paul%20Lyman.jpg",
+    "name": "Lemongrab",
+    "photo": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f5/Earl.png/revision/latest?cb=20120723061821",
     "scores": [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
 },
 {
-    "name": "Edward Snowden",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg",
+    "name": "Tree Trunks",
+    "photo": "http://www.stickpng.com/assets/images/5c80face72f5d9028c17ed57.png",
     "scores": [4, 3, 4, 1, 5, 2, 5, 3, 1, 4]
 },
 {
-    "name": "Hesso Nader",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aatef_Jenyat.jpg/293px-Aatef_Jenyat.jpg",
+    "name": "Marceline",
+    "photo": "http://www.stickpng.com/assets/images/5c80f7ab72f5d9028c17ed30.png",
     "scores": [3, 3, 4, 1, 4, 3, 5, 3, 5, 4]
 },
 {
-    "name": "Sonneth The Swift",
-    "photo": "http://www.billboard.com/files/styles/article_main_image/public/stylus/1235529-taylor-swift-woman-of-the-year-617-409.jpg",
+    "name": "Princess Bubblegum",
+    "photo": "https://cdn.imgbin.com/8/17/22/imgbin-sticker-telegram-princess-bubblegum-cartoon-network-advertising-adventure-time-adventure-time-princess-bubblegum-illustration-VPiTFtgCUtTMKJdrTxaWH020f.jpg",
     "scores": [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
 }
 
