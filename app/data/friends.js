@@ -30,7 +30,7 @@ var friends = [{
 },
 {
     "name": "Princess Bubblegum",
-    "photo": "https://cdn.imgbin.com/8/17/22/imgbin-sticker-telegram-princess-bubblegum-cartoon-network-advertising-adventure-time-adventure-time-princess-bubblegum-illustration-VPiTFtgCUtTMKJdrTxaWH020f.jpg",
+    "photo": "https://vignette.wikia.nocookie.net/adventuretimewhattimeisit/images/3/32/20110416161902%21Princess_bubblegum.jpg/revision/latest?cb=20120226235544",
     "scores": [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
 }
 
